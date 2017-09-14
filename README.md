@@ -1,2 +1,2 @@
-# thaddeush.github.io
-http://thaddeush.github.io/
+# thaddeush.github.com
+http://thaddeush.github.com/
